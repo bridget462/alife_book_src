@@ -12,6 +12,7 @@ tensorflow = "*"
 pyqt5 = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.8"
